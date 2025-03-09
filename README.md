@@ -7,6 +7,7 @@ Through data analysis, we identified major traffic violations and high-risk area
 This project helped us to apply all the concepts learned throughout the semester, from envisioning and planning to execution from scratch.
 
 🔥 Features
+
 ✔️ Stores detailed data of all traffic challans.
 
 ✔️ Captures reasons behind each challan.
