@@ -21,10 +21,15 @@ This project helped us to apply all the concepts learned throughout the semester
 ✔️ Provides graphical analysis of violations, highlighting common offenses and peak violation locations.
 
 💡 Thought Process
+
 🔹 Developed a real-time challan management system.
+
 🔹 Collected accurate data from the RTO app.
+
 🔹 Applied SQL and PL/SQL concepts for efficient data handling.
+
 🔹 Designed a user-friendly interface using Python.
+
 🔹 Analyzed collected data and generated graphs & insights.
 
 🚀 Technologies Used
