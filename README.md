@@ -8,10 +8,15 @@ This project helped us to apply all the concepts learned throughout the semester
 
 🔥 Features
 ✔️ Stores detailed data of all traffic challans.
+
 ✔️ Captures reasons behind each challan.
+
 ✔️ Records exact time and location of violations.
+
 ✔️ Maintains information about the vehicle and offender.
+
 ✔️ Tracks challan payment and status.
+
 ✔️ Provides graphical analysis of violations, highlighting common offenses and peak violation locations.
 
 💡 Thought Process
